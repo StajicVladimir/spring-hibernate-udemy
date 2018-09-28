@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>hb-04-one-to-many-uni</name>
+=======
+	<name>hb-eager-vs-lazy-demo</name>
+>>>>>>> 4f69c4523502258211d30da13e8ac07543c0eaea
 	<comment></comment>
 	<projects>
 	</projects>
